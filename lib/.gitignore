@@ -1,0 +1,21 @@
+# Archivos compilados
+*.class
+
+# Carpetas de salida
+/out/
+/bin/
+/build/
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de IDE
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
